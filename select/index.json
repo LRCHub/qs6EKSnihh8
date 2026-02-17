@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "再生",
+  "base_artist": "25時、ナイトコードで。",
+  "createdAt": "2026-02-17T05:24:38.014328Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Saisei [再生]",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/01_Saisei_[再生]_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "再生",
+      "artist": "Utsu-P",
+      "has_synced": false,
+      "path": "select/02_再生_Utsu-P.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "再生 (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音リン)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/03_再生_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音リン)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "再生-rebuild-",
+      "artist": "緒方恵美",
+      "has_synced": true,
+      "path": "select/04_再生-rebuild-_緒方恵美.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "再生",
+      "artist": "信",
+      "has_synced": true,
+      "path": "select/05_再生_信.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "再生",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/06_再生_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "再生",
+      "artist": "25時、ナイトコードで。 feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音リン",
+      "has_synced": true,
+      "path": "select/07_再生_25時、ナイトコードで。_feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "再生",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/08_再生_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "FFVII REMAKE: 片翼の天使 -再生- (One-Winged Angel - Rebirth)",
+      "artist": "Nobuo Uematsu",
+      "has_synced": true,
+      "path": "select/09_FFVII_REMAKE__片翼の天使_-再生-_(One-Winged_Angel_-_Rebirth)_Nobuo_Uematsu.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "再生",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/10_再生_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "再生",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/11_再生_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "[Official Music Video]Perfume 「再生」",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/12_[Official_Music_Video]Perfume_「再生」_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "再生 (feat. 宵崎奏",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/13_再生_(feat._宵崎奏_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "再生",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/14_再生_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "再生-rebuild-",
+      "artist": "Megumi Ogata",
+      "has_synced": true,
+      "path": "select/15_再生-rebuild-_Megumi_Ogata.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "再生 -instrumental-",
+      "artist": "25時、ナイトコードで。 feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音リン",
+      "has_synced": true,
+      "path": "select/16_再生_-instrumental-_25時、ナイトコードで。_feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音リン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "再生 (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音リン)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": false,
+      "path": "select/pl_01_再生_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音リン)_25時、ナイトコードで。.txt"
+    }
+  ]
+}
